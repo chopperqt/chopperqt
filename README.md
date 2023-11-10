@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🎯 Skills
+### Frontend
+![basic](https://github.com/chopperqt/chopperqt/assets/32895059/68518b75-db45-485e-ac85-1dd7bc35cd49)
+
+![js](https://github.com/chopperqt/chopperqt/assets/32895059/b5d9ca59-c8cf-4f8e-9a9d-c2f17ecd4a01)
+
+![pickers](https://github.com/chopperqt/chopperqt/assets/32895059/0a9d27c0-ac0a-4bea-92be-cea386d14498)
+
+### Backend
+![backend](https://github.com/chopperqt/chopperqt/assets/32895059/4125bca4-743c-4a22-a38f-dcb981f2d163)
+
+![db](https://github.com/chopperqt/chopperqt/assets/32895059/fabccb9d-7603-431d-970d-056c28ecf2ba)
+
+### Extra
+
+![extra](https://github.com/chopperqt/chopperqt/assets/32895059/b4bb91a3-39ae-4039-b054-b35d42f07d52)
+
+
