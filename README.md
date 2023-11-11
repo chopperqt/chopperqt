@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Frontend
 ![basic](https://github.com/chopperqt/chopperqt/assets/32895059/68518b75-db45-485e-ac85-1dd7bc35cd49)
 
-![js](https://github.com/chopperqt/chopperqt/assets/32895059/b5d9ca59-c8cf-4f8e-9a9d-c2f17ecd4a01)
+![js](https://github.com/chopperqt/chopperqt/assets/32895059/3bdfd7ee-ff09-4197-9501-20decd8a1ea8)
 
 ![pickers](https://github.com/chopperqt/chopperqt/assets/32895059/0a9d27c0-ac0a-4bea-92be-cea386d14498)
 
